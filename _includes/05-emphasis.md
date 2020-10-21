@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Ordered List with Emphasis
+
+1. I am a
+2. **Helicopter**
+3. and *I*
+4. don't _**NEED**_ 
+5. no _Man_
